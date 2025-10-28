@@ -18,7 +18,7 @@ I focus on **Deep Learning**, **Computer Vision**, **Robotics**, and **Place Rec
 
 ---
 
-💡 *Always open to collaboration on robotics and computer vision research!*## Hi there 👋
+💡 *Always open to collaboration on robotics and computer vision research!*
 
 <!--
 **alexmelekhin/alexmelekhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
