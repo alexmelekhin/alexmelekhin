@@ -7,7 +7,7 @@ I focus on **Deep Learning**, **Computer Vision**, **Robotics**, and **Place Rec
 ### 🔬 What I Do
 
 - 🤖 Research in **Localization** and **Place Recognition**
-- 🛠️ Maintainer of [**OpenPlaceRecognition**](https://github.com/OPR-Project/OpenPlaceRecognition) — an open-source toolkit for visual place recognition
+- 🛠️ Building **Humanoid Robots** for a bright future
 - 👨‍🏫 Teaching **Machine Learning**, **Deep Learning** and **Computer Vision** to the next generation of AI engineers
 
 ### 🌐 Connect With Me
