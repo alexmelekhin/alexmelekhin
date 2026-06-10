@@ -1,8 +1,8 @@
 # Hi there, I'm Alexander 👋
 
-## 🎓 AI Researcher, PhD
+## 🎓 Physical AI R&D Engineer, PhD
 
-I focus on **Deep Learning**, **Computer Vision**, **Robotics**, and **Place Recognition** — building intelligent systems that help robots understand where they are in the world.
+I focus on **Physical AI**, **Robotics**, and **Place Recognition** — building intelligent systems that help robots understand where they are in the world.
 
 ### 🔬 What I Do
 
